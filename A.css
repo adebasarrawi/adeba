@@ -1,0 +1,135 @@
+body{
+    background-color:#373737;
+  
+
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #cccccc; 
+    display: flex;
+    align-items: center; 
+    margin:-10px -10px 0px -10px;
+    border-bottom: 4px ridge #fff;
+    background: linear-gradient(to bottom, #7e7c7c 0%, #cccccc 100%);
+
+}
+
+
+li {
+    float: left;   
+} 
+  
+
+
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size:18px; 
+  }
+
+    
+  li.YY{
+   font-size: 30px;
+   text-indent:485px;
+   border-bottom: none;
+   font-family: 'Londrina Shadow', cursive;
+
+  } 
+ 
+  
+
+.SP{
+  margin-left: 180px;
+  border-bottom: 4px ridge #fff;
+  display: flex;
+}
+
+
+  img{
+    background-position: center;
+    margin: 70px 70px 10px 480px;
+   
+    display: block;
+ 
+    box-shadow: 0 10px 15px -10px rgba(182, 178, 178, 0.5);
+}
+
+.Tap{
+    margin-left: 480px;
+    margin-top: 30px;
+}
+.ser{
+    
+    background-color:#303030;
+    display:inline-block;
+    opacity:1.0;
+    font-size: 18px;
+     
+     padding: 10px 130px 10px 5px; 
+}
+
+.VTV{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: justify;
+    color: #ffffff;
+    width: 200px;
+    height: 400px;
+    margin-top: -10px;
+}
+
+.port{
+    margin-left:250px;
+    margin-top:-55px;
+    margin-right: 200px ;
+    background-color:#303030;
+    display:inline-block;
+    opacity:1.0;
+    font-size: 18px;
+    padding: 10px 130px 10px 5px; 
+}
+
+.BTB{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left:-450px;
+    margin-top: -10px;
+    text-align: justify;
+    color: #ffffff; 
+    width: 200px;
+    height: 400px;
+}
+
+.about{
+    margin-left:490px;
+    margin-top:-90px;
+    background-color:#303030;
+    display:inline-block;
+    opacity:1.0;
+    font-size: 18px;
+    padding: 10px 155px 10px 5px; 
+}
+
+.FTF{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left:-210px;
+    margin-top: -10px;
+    text-align: justify;
+    color: #ffffff; 
+    width: 200px;
+    height: 400px;
+}
+
+
+
+
+
+
+
+
+ 
